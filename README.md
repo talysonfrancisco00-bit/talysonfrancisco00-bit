@@ -1,42 +1,48 @@
-<p align="center">
-  <img src="assets/github-banner.png" width="100%">
+ <p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Talyson Ribeiro - Learning, Building, Growing">
 </p>
-<h1 align="center">Hi there, I'm Talyson! 👋</h1>
 
-<h3 align="center">ADS Student | Law Student | Technology Enthusiast</h3>
+<h1 align="center">Hi, I'm Talyson! 👋</h1>
 
 <p align="center">
-  Building my journey in software development and exploring the possibilities of Artificial Intelligence.
+  <strong>Technology Enthusiast | Undergraduate Student</strong>
+</p>
+
+<p align="center">
+  Exploring technology, software development and new possibilities through continuous learning.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying Systems Analysis and Development (ADS).
-- ⚖️ Also studying Law.
-- 💻 Interested in software development and technology.
-- 🤖 Exploring Artificial Intelligence and its applications.
-- 🚀 Focused on learning, building projects and growing as a developer.
-- 📍 Based in Sobral, Ceará, Brazil.
+- 🎓 Undergraduate student in Systems Analysis and Development (ADS).
+- 💻 Interested in technology and software development.
+- 🚀 Motivated by learning, solving problems and building new things.
+- 🌎 Based in Sobral, Ceará, Brazil.
 
-### 🎯 Current Goals
+---
 
-- Strengthen my programming fundamentals.
-- Develop practical software projects.
-- Explore AI and modern development tools.
-- Build a solid portfolio through real-world projects.
+### 🎯 My Goals
 
-### 🛠️ Technologies & Tools
+To develop my technical skills, gain practical experience and grow professionally in the technology industry.
 
-Currently expanding my knowledge of programming languages, development tools and technologies.
+---
 
-### 📂 Featured Projects
+### 📫 Connect With Me
 
-Coming soon! I'm working on building projects to showcase my learning and development journey.
+<p>
+  <a href="mailto:talysonfrancisco00@gmail.com">
+    Email
+  </a>
+  ·
+  <a href="https://github.com/talysonfrancisco00-bit">
+    GitHub
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <i>Learning • Building • Growing</i>
 </p>
