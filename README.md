@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/github-banner.png" width="100%">
+</p>
 <h1 align="center">Hi there, I'm Talyson! 👋</h1>
 
 <h3 align="center">ADS Student | Law Student | Technology Enthusiast</h3>
